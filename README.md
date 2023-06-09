@@ -29,10 +29,10 @@ Skill Enhancement: Improve data analysis and visualization skills through hands-
 ## Dependencies
 To run this project, the following dependencies are required:
 
-Programming Language: Python
-Pandas
-numpy
-Matplotlib
+Programming Language: Python<br>
+Pandas<br>
+numpy<br>
+Matplotlib<br>
 Seaborn
 ## Usage
 1. Clone or download the project repository from GitHub.
